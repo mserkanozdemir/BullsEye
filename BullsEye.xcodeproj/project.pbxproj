@@ -15,6 +15,7 @@
 		B3A4EE6D211352D00015406A /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3A4EE6C211352CF0015406A /* AboutViewController.swift */; };
 		B3A4EE6F211355530015406A /* AboutMeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3A4EE6E211355530015406A /* AboutMeViewController.swift */; };
 		B3A4EE71211355910015406A /* astronot.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B3A4EE70211355910015406A /* astronot.jpg */; };
+		B3E0FE2A2121B4DD0040F8FB /* BullsEye.html in Resources */ = {isa = PBXBuildFile; fileRef = B3E0FE292121B4DD0040F8FB /* BullsEye.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		B3A4EE6C211352CF0015406A /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
 		B3A4EE6E211355530015406A /* AboutMeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutMeViewController.swift; sourceTree = "<group>"; };
 		B3A4EE70211355910015406A /* astronot.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = astronot.jpg; sourceTree = "<group>"; };
+		B3E0FE292121B4DD0040F8FB /* BullsEye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = BullsEye.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				B3A4EE6E211355530015406A /* AboutMeViewController.swift */,
 				B3A4EE6C211352CF0015406A /* AboutViewController.swift */,
 				B3A4EE6121105B630015406A /* Assets.xcassets */,
+				B3E0FE292121B4DD0040F8FB /* BullsEye.html */,
 				B3A4EE70211355910015406A /* astronot.jpg */,
 				B3A4EE6321105B630015406A /* LaunchScreen.storyboard */,
 				B3A4EE6621105B630015406A /* Info.plist */,
@@ -135,6 +138,7 @@
 				B3A4EE71211355910015406A /* astronot.jpg in Resources */,
 				B3A4EE6221105B630015406A /* Assets.xcassets in Resources */,
 				B3A4EE6021105B600015406A /* Main.storyboard in Resources */,
+				B3E0FE2A2121B4DD0040F8FB /* BullsEye.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
